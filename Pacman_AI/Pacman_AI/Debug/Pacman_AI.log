@@ -1,0 +1,20 @@
+﻿Build started 4/16/2017 12:32:41 PM.
+     1>Project "E:\Computer Science\Projects\Pacman_AI\Pacman_AI\Pacman_AI.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(355,5): warning MSB8003: Could not find WindowsSDKDir variable from the registry.  TargetFrameworkVersion or PlatformToolset may be set to an invalid version number.
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /P /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Collision.cpp Display.cpp GameObject.cpp Initializer.cpp Mesh.cpp Monster.cpp Move.cpp Pacman.cpp Shader.cpp
+         Collision.cpp
+         Display.cpp
+         GameObject.cpp
+         Initializer.cpp
+         Mesh.cpp
+     1>e:\computer science\projects\pacman_ai\pacman_ai\include\gl\glew.h(85): fatal error C1189: #error :  gl.h included before glew.h
+         Monster.cpp
+         Move.cpp
+         Pacman.cpp
+         Shader.cpp
+     1>Done Building Project "E:\Computer Science\Projects\Pacman_AI\Pacman_AI\Pacman_AI.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:13.05
